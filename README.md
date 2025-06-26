@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/divyanshsingh28/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:divyansh.email@example.com">
+  <a href="mailto:divyansh.email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -101,7 +101,7 @@
 ## 📫 Let's Connect
  
 - 💼 LinkedIn: [linkedin.com/in/divyanshsingh28](https://www.linkedin.com/in/divyanshsingh28/)  
-- 📧 Email: divyansh.email@example.com
+- 📧 Email: divyansh.email@gmail.com
 
 
 
