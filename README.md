@@ -68,7 +68,7 @@
 ### 🔹 Expiry Tracker ([GitHub](https://github.com/Divyansnh/expiry_tracker_final))
 📅 Feb 2025 – May 2025  
 - Automated manual expiry checks using Flask & PostgreSQL
-- Integrated Zoho Inventory API for 60% faster data entry
+- Integrated Zoho Inventory API for demostrating interportability
 - OCR-based expiry detection using Azure Computer Vision (100% accuracy with 15 test images)
 - Built mobile-friendly UI with Tailwind & JS
 - Daily expiry alerts saved ~15 items from waste
@@ -82,9 +82,9 @@
 
 ### 🔹 E-commerce CRM System ([GitHub](https://github.com/Divyansnh/E-Commerce-Website))
 📅 Mar 2024 – Jun 2024  
-- Team project using Agile; improved dev speed by 25%
+- Team project using Agile
 - C# .NET backend with RBAC & staff modules
-- SQL Server: 30% faster queries
+- SQL Server for faster queries
 - Automated tests and validations improved UX
 
 ---
