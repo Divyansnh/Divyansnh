@@ -61,34 +61,6 @@
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### 🔹 Expiry Tracker ([GitHub](https://github.com/Divyansnh/expiry_tracker_final))
-📅 Feb 2025 – May 2025  
-- Automated manual expiry checks using Flask & PostgreSQL
-- Integrated Zoho Inventory API for demonstrating interoperability
-- OCR-based expiry detection using Azure Computer Vision (100% accuracy with 15 test images)
-- Built mobile-friendly UI with Tailwind & JS
-- Daily expiry alerts saved ~15 items from waste
-
-### 🔹 Advanced Simon Game ([Live Demo](https://divyansnh.github.io/Simon-Game/))
-📅 Aug 2024 – Sep 2024  
-- HTML5, CSS3, JS & jQuery retro memory game
-- 3 modes (Classic, Speed, Reverse) boosted engagement
-- High score & customizable settings
-- Achieved 98% Lighthouse performance
-
-### 🔹 E-commerce CRM System ([GitHub](https://github.com/Divyansnh/E-Commerce-Website))
-📅 Mar 2024 – Jun 2024  
-- Team project using Agile
-- C# .NET backend with RBAC & staff modules
-- SQL Server for faster queries
-- Automated tests and validations improved UX
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
