@@ -19,7 +19,7 @@
 - Automation using Flask and Azure
 - Database management with SQL & PostgreSQL
 - Distributed ML with Apache Spark
-- Big Data Analytics and Visualization
+- Big Data Analytics and Visualisation
 
 💡 I'm passionate about building robust backends, enhancing system efficiency, and developing user-focused applications.
 
@@ -71,7 +71,7 @@
 
 ## 🚀 Projects
 
-### 🔹 Crime Data Analysis with Apache Spark ([GitHub](https://github.com/Divyansnh/CTEC3702-Crime-Data-Spark-Analysis)
+### 🔹 Crime Data Analysis with Apache Spark ([GitHub])(https://github.com/Divyansnh/CTEC3702-Crime-Data-Spark-Analysis)
 📅 Apr 2025 – May 2025  
 - Analysed crime datasets from Kent, Leicestershire, and Derbyshire using Apache Spark
 - Computed county-wise and monthly crime statistics with Spark SQL
