@@ -68,7 +68,7 @@
 ### 🔹 Expiry Tracker ([GitHub](https://github.com/Divyansnh/expiry_tracker_final))
 📅 Feb 2025 – May 2025  
 - Automated manual expiry checks using Flask & PostgreSQL
-- Integrated Zoho Inventory API for demostrating interportability
+- Integrated Zoho Inventory API for demonstrating interoperability
 - OCR-based expiry detection using Azure Computer Vision (100% accuracy with 15 test images)
 - Built mobile-friendly UI with Tailwind & JS
 - Daily expiry alerts saved ~15 items from waste
