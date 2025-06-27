@@ -71,7 +71,7 @@
 
 ## 🚀 Projects
 
-### 🔹 Crime Data Analysis with Apache Spark ([GitHub])(https://github.com/Divyansnh/CTEC3702-Crime-Data-Spark-Analysis)
+### 🔹 Crime Data Analysis with Apache Spark ([GitHub](https://github.com/Divyansnh/CTEC3702-Crime-Data-Spark-Analysis))
 📅 Apr 2025 – May 2025  
 - Analysed crime datasets from Kent, Leicestershire, and Derbyshire using Apache Spark
 - Computed county-wise and monthly crime statistics with Spark SQL
