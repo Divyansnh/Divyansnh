@@ -71,11 +71,11 @@
 
 ## 🚀 Projects
 
-### 🔹 Crime Data Analysis with Apache Spark ([GitHub](https://github.com/Divyansnh))
+### 🔹 Crime Data Analysis with Apache Spark ([GitHub](https://github.com/Divyansnh/CTEC3702-Crime-Data-Spark-Analysis)
 📅 Apr 2025 – May 2025  
-- Analyzed crime datasets from Kent, Leicestershire, and Derbyshire using Apache Spark
+- Analysed crime datasets from Kent, Leicestershire, and Derbyshire using Apache Spark
 - Computed county-wise and monthly crime statistics with Spark SQL
-- Visualized trends with bar, pie, and line charts using matplotlib
+- Visualised trends with bar, pie, and line charts using matplotlib
 - Delivered descriptive statistics and identified top crime types per region
 - Developed on Kaggle using PySpark and Pandas for preprocessing and analytics
 
@@ -84,7 +84,7 @@
 - Built a distributed machine learning pipeline using PySpark on Kaggle for loan approval prediction  
 - Implemented Decision Tree & Logistic Regression with evaluation via accuracy, precision, recall, and confusion matrix analysis  
 - Applied feature engineering, imputation, and transformation techniques for improving model robustness  
-- Visualized performance using matplotlib and seaborn; Logistic Regression achieved 79.17% accuracy  
+- Visualised performance using matplotlib and seaborn; Logistic Regression achieved 79.17% accuracy  
 
 ### 🔹 Expiry Tracker ([GitHub](https://github.com/Divyansnh/expiry_tracker_final))
 📅 Feb 2025 – May 2025  
