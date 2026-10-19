@@ -61,7 +61,7 @@ First Class Honours
 ## 📫 Connect With Me
 
 - **GitHub:** [Divyansnh](https://github.com/Divyansnh)
-- **LinkedIn:** https://www.linkedin.com/in/divyanshsingh28/
+- **LinkedIn:** [Divyansh](https://www.linkedin.com/in/divyanshsingh28/)
 
 ---
 
