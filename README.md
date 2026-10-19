@@ -39,7 +39,7 @@ A machine learning project exploring loan approval prediction using applicant da
 - Achieved 79.17% accuracy with Logistic Regression.
 - Analysed model results and identified Credit History as the strongest predictor of loan approval.
 
-🔗 **Repository:** Add your Loan Approval Prediction repository link here.
+🔗 **Repository:** [View Loan Approval Prediction on Github](https://github.com/Divyansnh/CTEC3702-Loan-Prediction-Spark-ML)
 
 ## 🛠️ Technical Skills
 
